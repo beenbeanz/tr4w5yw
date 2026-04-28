@@ -1,6 +1,6 @@
 <template>
     <div>
-        hi uwu
+        hi baka
     </div>
 </template>
 
